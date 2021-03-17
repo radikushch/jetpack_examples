@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HiltExample</string>
+    <string name="this_is_splash_activity">This is splash activity</string>
+</resources>
